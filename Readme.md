@@ -24,7 +24,13 @@ http://swcdn.apple.com/content/downloads/21/07/041-59913/m210y0lkn7bsiqsi98vfuyk
 Reference：
 https://www.insanelymac.com/forum/topic/329828-making-a-bootable-high-sierra-usb-installer-entirely-from-scratch-in-windows-or-linux-mint-without-access-to-mac-or-app-store-installerapp/
 
+https://www.insanelymac.com/forum/topic/338810-create-legit-copy-of-macos-from-apple-catalog/
+
+https://www.insanelymac.com/forum/files/file/944-mojave-mbr-hfs-firmware-check-patch/
+
+https://www.tonymacx86.com/threads/create-legit-copy-of-macos-from-apple-catalog.277388/
+
 Apple's Regular Software Catalog
 https://swscan.apple.com/content/catalogs/others/index-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog.gz
 
-Check CatlogURL in /Library/Preferences/com.apple.SoftwareUpdate.plist for new info.
+/Library/Preferences/com.apple.SoftwareUpdate.plist
