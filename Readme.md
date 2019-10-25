@@ -36,14 +36,14 @@
 
 
 *****
-##for 10.14.5
+## for 10.14.5
 - Clover         v2.4k 4961
 - lilu           v1.3.6
 - AppleALC       v1.3.8
 - WhatEvergreen  v1.2.9
 - SMBIOS :       iMac14,2
 
-##Download Mojave 10.14.5 from Apple's Server:
+## Download Mojave 10.14.5 from Apple's Server:
 
 - http://swcdn.apple.com/content/downloads/21/07/041-59913/m210y0lkn7bsiqsi98vfuyk08x2z4to1qk/BaseSystem.dmg
 - http://swcdn.apple.com/content/downloads/21/07/041-59913/m210y0lkn7bsiqsi98vfuyk08x2z4to1qk/BaseSystem.chunklist
@@ -55,7 +55,7 @@
 ****
 
 
-##Reference：
+## Reference：
 
 - https://www.insanelymac.com/forum/topic/329828-making-a-bootable-high-sierra-usb-installer-entirely-from-scratch-in-windows-or-linux-mint-without-access-to-mac-or-app-store-installerapp/
 
@@ -65,7 +65,7 @@
 
 - https://www.tonymacx86.com/threads/create-legit-copy-of-macos-from-apple-catalog.277388/
 
-###Apple's Regular Software Catalog
+### Apple's Regular Software Catalog
 - https://swscan.apple.com/content/catalogs/others/index-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog.gz
 
 /Library/Preferences/com.apple.SoftwareUpdate.plist
